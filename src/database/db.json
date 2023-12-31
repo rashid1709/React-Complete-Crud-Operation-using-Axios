@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Virat kohli",
+      "username": "virat",
+      "email": "virat123@gmail.com",
+      "phone": "786786",
+      "id": 2
+    },
+    {
+      "name": "Hardik",
+      "username": "hpandya123",
+      "email": "hpandya@gmail.com",
+      "phone": "022587957",
+      "id": 4
+    },
+    {
+      "name": "Rashid ",
+      "username": "rashid1709",
+      "email": "rashid.ali2009@gmail.com",
+      "phone": "1709",
+      "id": 5
+    }
+  ]
+}
